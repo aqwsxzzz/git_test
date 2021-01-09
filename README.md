@@ -1,0 +1,1 @@
+This is ShegoS's first git project!
